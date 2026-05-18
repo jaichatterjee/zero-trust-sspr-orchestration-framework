@@ -1,0 +1,7 @@
+{
+  "User":"user@example.com",
+  "DeviceCompliance":"Compliant",
+  "Risk":"Medium",
+  "BehavioralSignals":"Normal",
+  "Action":"Enforce MFA"
+}
