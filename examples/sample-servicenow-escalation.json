@@ -1,0 +1,7 @@
+{
+  "TicketID":"INC001234",
+  "User":"user@example.com",
+  "Risk":"Critical",
+  "Action":"Block access",
+  "Escalation":"Manual verification required"
+}
